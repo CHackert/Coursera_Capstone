@@ -3,9 +3,7 @@ This project is the final assignment of the IBM Data Science Professional Certif
 
 ## INTRODUCTION / BUSINESS PROBLEM
 
-## DATA UNDERSTANDING
-
-## DATA PREPERATION
+## DATA
 
 ## MODELING
 
